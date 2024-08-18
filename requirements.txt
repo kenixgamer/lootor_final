@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+selenium
+webdriver-manager
+langchain-core
+langchain-groq
+langchain
+langchain-community
